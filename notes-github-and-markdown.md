@@ -11,7 +11,7 @@ next-author:
 
 ## Aufgaben
 
-1. Erstelle Dir einen GitHub-Account. Dein GitHub-Name sollte:
+1. Erstelle Dir einen GitHub-Account. Dein GitHub-Name sollte: deinen Echtnamen enthalten
 1. Mache ein Bild von deinem (aufgeräumten ;-)) Schreibtisch und sende es via DM auf Slack and Merle
 1. Erstelle Dir einen GitHub-Account. Dein GitHub-Name sollte:
    - auch in professionellen Kontexten funktionieren (kein supersexyfunnybunny, etc)
